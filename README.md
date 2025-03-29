@@ -55,6 +55,7 @@ Contact me via matrix...I might not reply immediately though.
 ### 📊 Stats
 
 ![Elias-Ainsworth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias-Ainsworth&show_icons=true&theme=catppuccin_mocha)
+[![Elias-Ainsworth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pilum_murialis&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Elias-Ainsworth&theme=catppuccin&border_radius=4.5) -->
 
